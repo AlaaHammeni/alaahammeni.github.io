@@ -10085,6 +10085,10 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
+.logo-brand
+{
+  width: 40%;
+}
 
 section.resume-section {
   display: flex;
